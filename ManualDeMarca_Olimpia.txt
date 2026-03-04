@@ -1,0 +1,62 @@
+1. Tipografía corporativa
+La tipografía corporativa seleccionada
+principal es la perteneciente a la familia
+Poppins
+
+Poppins es una tipografía
+geométrica sans-serif, diseñada
+por Ninad Kale y Jonny Pinhorn
+para Indian Type Foundry en
+2014, cuenta con diferentes
+variantes lo cual la hace una
+tipografía versátil para su uso.
+
+Títulos 
+Poppins Black
+Tamaño recomendado
+35 px - 45px
+30 px - 40px
+
+Subtítulos
+Poppins Bold
+Tamaño recomendado
+20 px - 30px
+
+Párrafos 
+Poppins Medium
+Poppins Regular
+Poppins Light
+Tamaño recomendado
+11 px - 14px
+
+
+2. Color
+
+Process Blue U
+Color primario
+Es el color del logo y el principal de la marca, sus variaciones pueden
+usarse para las comunicaciones, pero jamás en el logo.
+Este color transmite confianza y con el cual los consumidores se sienten
+seguros, también simboliza responsabilidad, madurez,
+#0182C4 creatividad, innovación y diversificación
+
+Blue Ocean #002F47 Color complementario
+Protección, seriedad
+
+Azul Innovación Color acento #00D6F9
+Tecnología, reflexión
+
+Azul Seguridad Color acento #1389FB
+Confianza, inteligencia
+
+Verde Solución Color acento #7EEC90
+Equilibrio, tranquilidad
+
+Amarillo Creativo Color acento #F7EC28
+Originalidad, curiosidad
+
+Morado Tech Color acento #5A26EE
+Visión, autenticidad
+
+Rosa Neuronal Color acento #F5659A
+Armonía, sabiduría
